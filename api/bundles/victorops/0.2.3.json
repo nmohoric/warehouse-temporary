@@ -1,0 +1,1 @@
+{"commands": {"ack": {"rules": ["allow"], "executable": "/home/bundle/cog-command", "description": "Ack an open incident", "arguments": "[incident]"}}, "version": "0.2.3", "description": "Commands for interacting with VictorOps", "name": "victorops", "docker": {"image": "cagedata/victorops-cog", "tag": "0.2.3"}, "cog_bundle_version": 4}

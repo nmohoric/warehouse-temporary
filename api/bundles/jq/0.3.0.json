@@ -1,0 +1,1 @@
+{"commands": {"jq": {"rules": ["allow"], "executable": "/usr/bin/cog-jq", "description": "Processes the input with jq", "arguments": "[filter]"}}, "version": "0.3.0", "description": "Wrapper for jq, a lightweight and flexible JSON processor", "name": "jq", "docker": {"image": "ktheory/cog-jq", "tag": "v0.3.0"}, "cog_bundle_version": 4}
